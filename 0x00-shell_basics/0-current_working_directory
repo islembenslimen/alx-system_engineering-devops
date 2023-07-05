@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd -l
+echo "Current working directory: $(dirname "$(readlink -f "$0")")"
