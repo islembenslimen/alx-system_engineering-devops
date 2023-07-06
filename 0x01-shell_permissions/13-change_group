@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school hello
+chmod +x /path/to/13-change_group
